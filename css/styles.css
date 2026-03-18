@@ -33,6 +33,10 @@ body {
   height: 100%;
 }
 
+.header-content button {
+  visibility: hidden;
+}
+
 .header-left h1 {
   font-size: 2rem;
   font-weight: 700;
@@ -49,7 +53,6 @@ body {
 }
 
 .btn-add-product {
-  display: none;
   background-color: var(--bg-dark);
   color: var(--text-light);
   border: 2px solid var(--border-color);
