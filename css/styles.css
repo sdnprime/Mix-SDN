@@ -624,6 +624,14 @@ body {
   text-align: center;
 }
 
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: var(--text-light);
+  font-size: 1.5rem;
+}
+
 /* Responsive */
 @media (max-width: 767px) {
   .header-content {
