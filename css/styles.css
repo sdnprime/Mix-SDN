@@ -80,14 +80,18 @@ body {
 }
 
 .search-input {
+  background-image: url("/logo/lupa.svg");
+  background-repeat: no-repeat;
   width: 100%;
-  padding: 0.75rem 1rem;
+  padding: 0.75rem 3.5rem;
   border: 1px solid rgba(255, 255, 255, 0.3);
   border-radius: 0.5rem;
   background-color: var(--bg-dark);
   color: var(--text-light);
   font-size: 1rem;
   transition: all 0.3s ease;
+  background-size: 2rem;
+  background-position: 1rem center;
 }
 
 .search-input::placeholder {
