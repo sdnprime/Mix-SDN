@@ -80,7 +80,7 @@ body {
 }
 
 .search-input {
-  background-image: url("logo/lupa.svg");
+  background-image: url("../logo/lupa.svg");
   background-repeat: no-repeat;
   width: 100%;
   padding: 0.75rem 3.5rem;
