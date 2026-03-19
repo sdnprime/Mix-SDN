@@ -25,7 +25,7 @@ function init() {
 
 async function carregarCards() {
   try {
-    const resposta = await fetch("../json/dados.json");
+    const resposta = await fetch("json/dados.json");
     const json = await resposta.json();
 
     // Salvamos os dados no array global 'products'
