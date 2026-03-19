@@ -576,7 +576,7 @@ body {
   perspective: 1000px;
   height: 400px; /* Altura fixa para o giro funcionar bem */
   border: none;
-  cursor: default;
+  cursor: pointer;
 }
 
 /* O "esqueleto" que realmente vai girar */
@@ -589,7 +589,6 @@ body {
 }
 
 /* Giro ao passar o mouse */
-.product-card:hover .card-inner,
 .product-card.is-flipped .card-inner {
   transform: rotateY(180deg);
 }

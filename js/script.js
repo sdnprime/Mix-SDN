@@ -26,14 +26,14 @@ function init() {
 async function carregarCards() {
   try {
     const resposta = await fetch("../json/dados.json");
-    const json = await resposta.json(); // O objeto completo { "dados": [...] }
+    const json = await resposta.json();
 
-    const container = document.getElementById("productsContainer");
+    // Salvamos os dados no array global 'products'
+    // Usamos 'json.dados' porque seu JSON tem essa estrutura
+    products = json.dados;
 
-    // O SEGREDO: Acessar .dados antes do forEach
-    json.dados.forEach((item) => {
-      container.appendChild(createProductCard(item));
-    });
+    // Agora que o array 'products' tem conteúdo, chamamos a renderização
+    renderProducts();
   } catch (erro) {
     console.error("Erro ao carregar o JSON:", erro);
   }
@@ -58,7 +58,6 @@ function renderProducts() {
 
 // Filtrar produtos
 function filterProducts() {
-  // Pré-processa a busca: remove espaços, acentos e passa para minúsculo
   const normalizedSearch = searchQuery
     .trim()
     .toLowerCase()
@@ -66,22 +65,23 @@ function filterProducts() {
     .replace(/[\u0300-\u036f]/g, "");
 
   return products.filter((product) => {
+    // Filtro de Categoria
     const matchCategory =
-      currentCategory === "all" || product.category === currentCategory;
+      currentCategory === "all" || product.categoria === currentCategory;
 
-    // Função auxiliar para normalizar os campos do produto
+    // Normalização para busca textual
     const prepareText = (text) =>
       (text || "")
         .toLowerCase()
         .normalize("NFD")
         .replace(/[\u0300-\u036f]/g, "");
 
-    const productName = prepareText(product.name);
-    const productCategory = prepareText(product.category);
+    const nomeProduto = prepareText(product.nome);
+    const categoriaProduto = prepareText(product.categoria);
 
     const matchSearch =
-      productName.includes(normalizedSearch) ||
-      productCategory.includes(normalizedSearch);
+      nomeProduto.includes(normalizedSearch) ||
+      categoriaProduto.includes(normalizedSearch);
 
     return matchCategory && matchSearch;
   });
