@@ -201,7 +201,7 @@
       }
     },
     {
-    "id": "14",
+      "id": "14",
       "nome": "SNICKERS 45G",
       "categoria": "Doces",
       "preco": 5.59,
@@ -296,7 +296,7 @@
         "GordurasSaturadas": "6,1g",
         "Fibra Alimentar": "1g",
         "Sódio": "106mg" 
-    }
+      }
     },
     {
       "id": "20",
@@ -313,7 +313,7 @@
         "GordurasSaturadas": "1,9g",
         "Fibra Alimentar": "0,8g",
         "Sódio": "299mg"
-  }
-  }
+     }
+    }
   ]
 }
