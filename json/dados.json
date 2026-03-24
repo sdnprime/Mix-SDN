@@ -205,7 +205,19 @@
       }
     },
     {
-
+      "id": "14",
+      "nome": "Ebicen 30g",
+      "categoria": "Salgados",
+      "preco": 5.5,
+      "imagem": "imagens/ebicen.png",
+      "descricao": "Ebicen camarão",
+      "informacaoNutricional": {
+        "ValorEnergético": "125 kcal",
+        "Carboidratos": "17g",
+        "AçúcaresTotais": "0g",
+        "AçúcaresAdicionados": "0g",
+        "Sódio": "275mg"
+      }
     }
   ]
 }
