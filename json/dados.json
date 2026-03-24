@@ -113,8 +113,8 @@
       "id": "8",
       "nome": "PEPSI  350ML",
       "categoria": "Bebidas",
-      "preco": 3.20,
-      "imagem": "imagens/pepsi.png",
+      "preco": 3.2,
+      "imagem": "imagens/Pepsi.png",
       "descricao": "Refrigerante de cola com sabor único",
       "informacaoNutricional": {
         "ValorEnergético": "97 kcal",
