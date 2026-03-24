@@ -21,7 +21,7 @@
       "nome": "ÁGUA CRYSTAL COM GÁS 500ML",
       "categoria": "Bebidas",
       "preco": 3.99,
-      "imagem": "imagens/agua-Crystal-500.png",
+      "imagem": "imagens/agua-Crystal-Com-Gas-500.png",
       "descricao": "Água mineral com gás",
       "informacaoNutricional": {
         "Calorias": "0 kcal",
@@ -37,7 +37,7 @@
       "nome": "ÁGUA CRYSTAL SEM GÁS 500ML",
       "categoria": "Bebidas",
       "preco": 3.99,
-      "imagem": "https://d2xsxph8kpxj0f.cloudfront.net/310519663104223350/LzWXktRP6jVCNSYJrQ75bH/agua-mineral-33dqQZgCkHP4JZWT3UnPjG.webp",
+      "imagem": "imagens/agua-Crystal-500.png",
       "descricao": "Água mineral pura",
       "informacaoNutricional": {
         "Calorias": "0 kcal",
@@ -50,6 +50,82 @@
     },
     {
       "id": "4",
+      "nome": "REFRIGERANTE COCA COLA 350ML",
+      "categoria": "Bebidas",
+      "preco": 6.99,
+      "imagem": "imagens/02.png",
+      "descricao": "Refrigerante coca cola",
+      "informacaoNutricional": {
+        "Calorias": "0 kcal",
+        "Proteina": "0g",
+        "Carboidratos": "0g",
+        "Gorduras": "0g",
+        "Fibra": "0g",
+        "Sódio": "80mg"
+      }
+    },
+    {
+      "id": "5",
+      "nome": "FANTA LARANJA 350ML",
+      "categoria": "Bebidas",
+      "preco": 3.49,
+      "imagem": "imagens/03fanta.png",
+      "descricao": "Fanta Laranja",
+      "informacaoNutricional": {
+        "ValorEnergético": "140 kcal",
+        "Carboidratos": "35g",
+        "AçúcaresTotais": "35g",
+        "AçúcaresAdicionados": "34g",
+        "Sódio": "42mg"
+      }
+    },
+    {
+      "id": "6",
+      "nome": "FANTA UVA 350ML",
+      "categoria": "Bebidas",
+      "preco": 3.49,
+      "imagem": "imagens/04fanta.png",
+      "descricao": "Fanta Uva",
+      "informacaoNutricional": {
+        "ValorEnergético": "81 kcal",
+        "Carboidratos": "20g",
+        "AçúcaresTotais": "20g",
+        "AçúcaresAdicionados": "17g",
+        "Sódio": "54mg"
+      }
+    }
+    {
+      "id": "7",
+      "nome": "GUARANÁ ANTARCTICA 350ML",
+      "categoria": "Bebidas",
+      "preco": 3.5,
+      "imagem": "imagens/guarana-antartica-350ml.png",
+      "descricao": "Original do Brasil",
+      "informacaoNutricional": {
+        "ValorEnergético": "105 kcal",
+        "Carboidratos": "26g",
+        "AçúcaresTotais": "26g",
+        "AçúcaresAdicionados": "26g",
+        "Sódio": "30mg"
+      }
+    },
+    {
+      "id": "8",
+      "nome": "PEPSI  350ML",
+      "categoria": "Bebidas",
+      "preco": 3.20,
+      "imagem": "imagens/pepsi.png",
+      "descricao": "Refrigerante de cola com sabor único",
+      "informacaoNutricional": {
+        "ValorEnergético": "97 kcal",
+        "Carboidratos": "24g",
+        "AçúcaresTotais": "24g",
+        "AçúcaresAdicionados": "24g",
+        "Sódio": "43mg"
+      }
+    },
+    {
+      "id": "9",
       "nome": "BALA MORANGO HALLS 28G",
       "categoria": "Doces",
       "preco": 2.99,
@@ -65,7 +141,7 @@
       }
     },
     {
-      "id": "5",
+      "id": "10",
       "nome": "BALA SKITTLES 38G",
       "categoria": "Doces",
       "preco": 5.99,
@@ -81,7 +157,7 @@
       }
     },
     {
-      "id": "6",
+      "id": "11",
       "nome": "CHOCOLATE KINDER BUENO 43G",
       "categoria": "Doces",
       "preco": 11.99,
@@ -97,23 +173,7 @@
       }
     },
     {
-      "id": "7",
-      "nome": "REFRIGERANTE COCA COLA ZERO 350ML",
-      "categoria": "Bebidas",
-      "preco": 6.99,
-      "imagem": "https://d2xsxph8kpxj0f.cloudfront.net/310519663104223350/LzWXktRP6jVCNSYJrQ75bH/refrigerante-cola-MCZDWEvsRy9Fs77QV5dBoy.webp",
-      "descricao": "Refrigerante sem açúcar",
-      "informacaoNutricional": {
-        "Calorias": "0 kcal",
-        "Proteina": "0g",
-        "Carboidratos": "0g",
-        "Gorduras": "0g",
-        "Fibra": "0g",
-        "Sódio": "80mg"
-      }
-    },
-    {
-      "id": "8",
+      "id": "12",
       "nome": "BISCOITO TRAKINAS MORANGO 126G",
       "categoria": "Doces",
       "preco": 5.99,
@@ -129,7 +189,7 @@
       }
     },
     {
-      "id": "9",
+      "id": "13",
       "nome": "TORCIDA PIMENTA MEXICANA 35G",
       "categoria": "Salgados",
       "preco": 5.99,
@@ -145,19 +205,7 @@
       }
     },
     {
-      "id": "10",
-      "nome": "FANTA GUARANÁ 350ML",
-      "categoria": "Bebidas",
-      "preco": 6.5,
-      "imagem": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgkpb.com.br%2Fwp-content%2Fuploads%2F2017%2F06%2Fnova-fanta-guarana-coca-cola-lata-sabor-tradicional.jpg&f=1&nofb=1&ipt=779ee95aff2ae110316d381307142444c84718fb75bd5d15d34a8db0cffcf32b",
-      "descricao": "Fanta Guaraná",
-      "informacaoNutricional": {
-        "ValorEnergético": "141 kcal",
-        "Carboidratos": "36g",
-        "AçúcaresTotais": "36g",
-        "AçúcaresAdicionados": "36g",
-        "Sódio": "27mg"
-      }
+
     }
   ]
 }
