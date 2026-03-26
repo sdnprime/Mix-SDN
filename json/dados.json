@@ -161,9 +161,9 @@
       "descricao": "Bala de morango refrescante",
       "informacaoNutricional": {
         "Calorias": "100 kcal",
-        "Proteina": "0g",
         "Carboidratos": "25g",
-        "Gorduras": "0g",
+        "Proteina": "0g",
+        "GordurasTotais": "0g",
         "Fibra Alimentar": "0g",
         "Sódio": "20mg"
       }
@@ -177,9 +177,9 @@
       "descricao": "Balas coloridas e saborosas",
       "informacaoNutricional": {
         "Calorias": "150 kcal",
-        "Proteina": "0g",
         "Carboidratos": "35g",
-        "Gorduras": "0g",
+        "Proteina": "0g",
+        "GordurasTotais": "0g",
         "Fibra Alimentar": "0g",
         "Sódio": "10mg"
       }
@@ -193,9 +193,9 @@
       "descricao": "Chocolate com wafer crocante",
       "informacaoNutricional": {
         "Calorias": "219 kcal",
-        "Proteina": "3,3g",
         "Carboidratos": "24g",
-        "Gorduras": "12g",
+        "Proteina": "3,3g",
+        "GordurasTotais": "12g",
         "Fibra Alimentar": "0.9g",
         "Sódio": "38mg"
       }
@@ -220,18 +220,19 @@
     },
     {
       "id": "15",
-      "nome": "BISCOITO TRAKINAS MORANGO 126G",
+      "nome": "SUFLAIR 50G",
       "categoria": "Doces",
       "preco": 5.99,
-      "imagem": "https://d2xsxph8kpxj0f.cloudfront.net/310519663104223350/LzWXktRP6jVCNSYJrQ75bH/bala-skittles-gQASyatBfnKCFBe5mbJoMm.webp",
-      "descricao": "Biscoito crocante de morango",
+      "imagem": "imagens/suflair-50g.png",
+      "descricao": "chocolate aerado nestle",
       "informacaoNutricional": {
-        "Calorias": "480 kcal",
-        "Proteina": "7g",
+        "Calorias": "276 kcal",
         "Carboidratos": "60g",
-        "Gorduras": "22g",
-        "Fibra Alimentar": "1g",
-        "Sódio": "400mg"
+        "Proteinas": "4g",
+        "GordurasTotais": "17g",
+        "GordurasSaturadas": "4,9g",
+        "Fibra Alimentar": "1,3g",
+        "Sódio": "50mg"
       }
     },
     {
@@ -243,9 +244,9 @@
       "descricao": "Salgadinho Torcida sabor pimenta mexicana",
       "informacaoNutricional": {
         "Calorias": "480 kcal",
-        "Proteina": "7g",
         "Carboidratos": "60g",
-        "Gorduras": "22g",
+        "Proteina": "7g",
+        "GordurasTotais": "22g",
         "Fibra Alimentar": "1g",
         "Sódio": "400mg"
       }
