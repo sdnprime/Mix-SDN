@@ -222,7 +222,7 @@
       "id": "15",
       "nome": "SUFLAIR 50G",
       "categoria": "Doces",
-      "preco": 5.99,
+      "preco": 7.99,
       "imagem": "imagens/suflair-50g.png",
       "descricao": "chocolate aerado nestle",
       "informacaoNutricional": {
@@ -237,6 +237,120 @@
     },
     {
       "id": "16",
+      "nome": "TRENTO PISTACHE 29G",
+      "categoria": "Doces",
+      "preco": 3.29,
+      "imagem": "imagens/TrentoPistache29g.png",
+      "descricao": "Trento sabor pistache",
+      "informacaoNutricional": {
+        "Calorias": "140 kcal",
+        "Carboidratos": "20g",
+        "Proteinas": "1,6g",
+        "GordurasTotais": "5,9g",
+        "GordurasSaturadas": "3,9g",
+        "AçúcaresTotais": "14g",
+        "AçúcaresAdicionados": "12g",
+        "Fibra Alimentar": "0g",
+        "Sódio": "55mg"
+      }
+    },
+    {
+      "id": "17",
+      "nome": "TRENTO TORTA DE LIMÃO 29G",
+      "categoria": "Doces",
+      "preco": 2.99,
+      "imagem": "imagens/TrentoTortadeLimao29g.png",
+      "descricao": "Trento sabor torta de limão",
+      "informacaoNutricional": {
+        "Calorias": "140 kcal",
+        "Carboidratos": "19g",
+        "Proteinas": "1,6g",
+        "GordurasTotais": "6,4g",
+        "GordurasSaturadas": "4,5g",
+        "AçúcaresTotais": "15g",
+        "AçúcaresAdicionados": "12g",
+        "Fibra Alimentar": "0g",
+        "Sódio": "57mg"
+      }
+    },
+    {
+      "id": "18",
+      "nome": "TRENTO MOUSSE DE MARACUJÁ 29G",
+      "categoria": "Doces",
+      "preco": 3.09,
+      "imagem": "imagens/TrentoMoussedeMaracuja29g.png",
+      "descricao": "Trento sabor mousse de maracujá",
+      "informacaoNutricional": {
+        "Calorias": "143 kcal",
+        "Carboidratos": "19g",
+        "Proteinas": "1,7g",
+        "GordurasTotais": "5,7g",
+        "GordurasSaturadas": "4,7g",
+        "AçúcaresTotais": "14g",
+        "AçúcaresAdicionados": "12g",
+        "Fibra Alimentar": "0g",
+        "Sódio": "56mg"
+      }
+    },
+     {
+      "id": "18",
+      "nome": "TRENTO MOUSSE DE MARACUJÁ 29G",
+      "categoria": "Doces",
+      "preco": 3.09,
+      "imagem": "imagens/TrentoMoussedeMaracuja29g.png",
+      "descricao": "Trento sabor mousse de maracujá",
+      "informacaoNutricional": {
+        "Calorias": "143 kcal",
+        "Carboidratos": "19g",
+        "Proteinas": "1,7g",
+        "GordurasTotais": "5,7g",
+        "GordurasSaturadas": "4,7g",
+        "AçúcaresTotais": "14g",
+        "AçúcaresAdicionados": "12g",
+        "Fibra Alimentar": "0g",
+        "Sódio": "56mg"
+      }
+    },
+     {
+      "id": "19",
+      "nome": "COOKIE BAUNILHA PIRAQUÊ 40G",
+      "categoria": "Doces",
+      "preco": 5.75,
+      "imagem": "imagens/cookie-40-piraque.png",
+      "descricao": "cookies com quê de piraquê .",
+      "informacaoNutricional": {
+        "Calorias": "192 kcal",
+        "Carboidratos": "24g",
+        "Proteinas": "2,7g",
+        "GordurasTotais": "9,5g",
+        "GordurasSaturadas": "3,5g",
+        "AçúcaresTotais": "13g",
+        "AçúcaresAdicionados": "11g",
+        "Fibra Alimentar": "1,2g",
+        "Sódio": "98mg"
+      }
+    },
+     {
+      "id": "20",
+      "nome": "BIS 100G",
+      "categoria": "Doces",
+      "preco": 6.49,
+      "imagem": "imagens/bis-100g.png",
+      "descricao": "quem come um pede Bis.",
+      "informacaoNutricional": {
+        "Calorias": "513 kcal",
+        "Carboidratos": "63g",
+        "Proteinas": "6g",
+        "GordurasTotais": "26g",
+        "GordurasSaturadas": "14g",
+        "AçúcaresTotais": "46g",
+        "AçúcaresAdicionados": "44g",
+        "Fibra Alimentar": "4,1g",
+        "Sódio": "201mg"
+      }
+    },
+    {
+      "id": "21",
       "nome": "TORCIDA PIMENTA MEXICANA 35G",
       "categoria": "Salgados",
       "preco": 5.99,
@@ -252,7 +366,7 @@
       }
     },
     {
-      "id": "17",
+      "id": "22",
       "nome": "Ebicen 30g",
       "categoria": "Salgados",
       "preco": 5.5,
@@ -267,7 +381,7 @@
       }
     },
     {
-      "id": "18",
+      "id": "23",
       "nome": "TORCIDA COSTELINHA COM LIMÃO",
       "categoria": "Salgados",
       "preco": 6.00,
@@ -283,7 +397,7 @@
       }
     },
     {
-      "id": "19",
+      "id": "24",
       "nome": "BATATA RUFFLES 33g",
       "categoria": "Salgados",
       "preco": 6.00,
@@ -300,7 +414,7 @@
       }
     },
     {
-      "id": "20",
+      "id": "25",
       "nome": "OVINHOS DE AMENDOIM 65G",
       "categoria": "Salgados",
       "preco": 6.00,
@@ -315,6 +429,25 @@
         "Fibra Alimentar": "0,8g",
         "Sódio": "299mg"
      }
+    },
+     {
+      "id": "26",
+      "nome": "CROCANTISSIMO PEITO DE PERU COM REQUEIJÃO 40G",
+      "categoria": "Salgados",
+      "preco": 3.99,
+      "imagem": "imagens/Crocantissimo-Peito-de-Peru.png",
+      "descricao": "Assado, livre de gordura trans e feito com oleo de girassol.",
+      "informacaoNutricional": {
+        "Calorias": "113 kcal",
+        "Carboidratos": "18g",
+        "Proteinas": "2,3g",
+        "GordurasTotais": "3,5g",
+        "GordurasSaturadas": "0,5g",
+        "AçúcaresTotais": "0,7g",
+        "AçúcaresAdicionados": "0,7g",
+        "Fibra Alimentar": "0,5g",
+        "Sódio": "164mg"
+      }
     }
   ]
 }
