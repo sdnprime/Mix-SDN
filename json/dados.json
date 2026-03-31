@@ -294,21 +294,21 @@
     },
      {
       "id": "18",
-      "nome": "TRENTO MOUSSE DE MARACUJÁ 29G",
+      "nome": "STIKADINHO 70G",
       "categoria": "Doces",
-      "preco": 3.09,
-      "imagem": "imagens/TrentoMoussedeMaracuja29g.png",
-      "descricao": "Trento sabor mousse de maracujá",
+      "preco": 5.59,
+      "imagem": "imagens/stikadinho10_vertical.png",
+      "descricao": "Chocolate com recheio de morango",
       "informacaoNutricional": {
-        "Calorias": "143 kcal",
-        "Carboidratos": "19g",
-        "Proteinas": "1,7g",
-        "GordurasTotais": "5,7g",
+        "Calorias": "131 kcal",
+        "Carboidratos": "15g",
+        "Proteinas": "1,2g",
+        "GordurasTotais": "7,1g",
         "GordurasSaturadas": "4,7g",
-        "AçúcaresTotais": "14g",
-        "AçúcaresAdicionados": "12g",
-        "Fibra Alimentar": "0g",
-        "Sódio": "56mg"
+        "AçúcaresTotais": "12g",
+        "AçúcaresAdicionados": "11g",
+        "Fibra Alimentar": "0,9g",
+        "Sódio": "8,8mg"
       }
     },
      {
