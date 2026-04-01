@@ -171,7 +171,7 @@
       "nome": "BALA SKITTLES 38G",
       "categoria": "Doces",
       "preco": 5.99,
-      "imagem": "https://d2xsxph8kpxj0f.cloudfront.net/310519663104223350/LzWXktRP6jVCNSYJrQ75bH/bala-skittles-gQASyatBfnKCFBe5mbJoMm.webp",
+      "imagem": "imagens/skittles.png",
       "descricao": "Balas coloridas e saborosas",
       "informacaoNutricional": {
         "Calorias": "150 kcal",
@@ -351,8 +351,8 @@
       "id": "21",
       "nome": "TORCIDA PIMENTA MEXICANA 35G",
       "categoria": "Salgados",
-      "preco": 5.99,
-      "imagem": "https://encrypted-tbn0.gstatic.com/imagems?q=tbn:ANd9GcQwTN_qrnE2XiTJ7epsZnut2lwcjyV5brlOrw&s",
+      "preco": 2.99,
+      "imagem": "imagens/pimenta-mexicana-35g.png",
       "descricao": "Salgadinho Torcida sabor pimenta mexicana",
       "informacaoNutricional": {
         "Calorias": "480 kcal",
