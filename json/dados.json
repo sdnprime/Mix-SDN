@@ -113,7 +113,7 @@
       "id": "8",
       "nome": "PEPSI  350ML",
       "categoria": "Bebidas",
-      "preco": 3.20,
+      "preco": 3.2,
       "imagem": "imagens/Pepsi.png",
       "descricao": "Refrigerante de cola com sabor único",
       "informacaoNutricional": {
@@ -216,7 +216,7 @@
         "GordurasTotais": "20g",
         "GordurasSaturadas": "4,9g",
         "Sódio": "96mg"
-        }
+      }
     },
     {
       "id": "15",
@@ -292,7 +292,7 @@
         "Sódio": "56mg"
       }
     },
-     {
+    {
       "id": "18",
       "nome": "STIKADINHO 70G",
       "categoria": "Doces",
@@ -311,7 +311,7 @@
         "Sódio": "8,8mg"
       }
     },
-     {
+    {
       "id": "19",
       "nome": "COOKIE BAUNILHA PIRAQUÊ 40G",
       "categoria": "Doces",
@@ -330,7 +330,7 @@
         "Sódio": "98mg"
       }
     },
-     {
+    {
       "id": "20",
       "nome": "BIS 100G",
       "categoria": "Doces",
@@ -384,7 +384,7 @@
       "id": "23",
       "nome": "TORCIDA COSTELINHA COM LIMÃO",
       "categoria": "Salgados",
-      "preco": 6.00,
+      "preco": 6.0,
       "imagem": "imagens/torcida-costelinha-com-limão.png",
       "descricao": "Salgadinho Torcida sabor Costelinha com Limão",
       "informacaoNutricional": {
@@ -400,7 +400,7 @@
       "id": "24",
       "nome": "BATATA RUFFLES 33g",
       "categoria": "Salgados",
-      "preco": 6.00,
+      "preco": 6.0,
       "imagem": "imagens/Pacote-Ruffles.png",
       "descricao": "Batata Ruffles original",
       "informacaoNutricional": {
@@ -410,14 +410,14 @@
         "GordurasTotais": "16g",
         "GordurasSaturadas": "6,1g",
         "Fibra Alimentar": "1g",
-        "Sódio": "106mg" 
+        "Sódio": "106mg"
       }
     },
     {
       "id": "25",
       "nome": "OVINHOS DE AMENDOIM 65G",
       "categoria": "Salgados",
-      "preco": 6.00,
+      "preco": 6.0,
       "imagem": "imagens/Ovinho-amendoim.png",
       "descricao": "Ovinhos de amendoim elma chips",
       "informacaoNutricional": {
@@ -428,15 +428,53 @@
         "GordurasSaturadas": "1,9g",
         "Fibra Alimentar": "0,8g",
         "Sódio": "299mg"
-     }
+      }
     },
-     {
+    {
       "id": "26",
       "nome": "CROCANTISSIMO PEITO DE PERU COM REQUEIJÃO 40G",
       "categoria": "Salgados",
       "preco": 3.99,
       "imagem": "imagens/Crocantissimo-Peito-de-Peru.png",
       "descricao": "Assado, livre de gordura trans e feito com oleo de girassol.",
+      "informacaoNutricional": {
+        "Calorias": "113 kcal",
+        "Carboidratos": "18g",
+        "Proteinas": "2,3g",
+        "GordurasTotais": "3,5g",
+        "GordurasSaturadas": "0,5g",
+        "AçúcaresTotais": "0,7g",
+        "AçúcaresAdicionados": "0,7g",
+        "Fibra Alimentar": "0,5g",
+        "Sódio": "164mg"
+      }
+    },
+    {
+      "id": "27",
+      "nome": "Cheetos requeijão 40G",
+      "categoria": "Salgados",
+      "preco": 3.99,
+      "imagem": "imagens/cheetos.png",
+      "descricao": "",
+      "informacaoNutricional": {
+        "Calorias": "113 kcal",
+        "Carboidratos": "18g",
+        "Proteinas": "2,3g",
+        "GordurasTotais": "3,5g",
+        "GordurasSaturadas": "0,5g",
+        "AçúcaresTotais": "0,7g",
+        "AçúcaresAdicionados": "0,7g",
+        "Fibra Alimentar": "0,5g",
+        "Sódio": "164mg"
+      }
+    },
+    {
+      "id": "27",
+      "nome": "Doritos 32G",
+      "categoria": "Salgados",
+      "preco": 3.99,
+      "imagem": "imagens/doritos.png",
+      "descricao": "",
       "informacaoNutricional": {
         "Calorias": "113 kcal",
         "Carboidratos": "18g",
