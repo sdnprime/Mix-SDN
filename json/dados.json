@@ -56,12 +56,11 @@
       "imagem": "imagens/02.png",
       "descricao": "Refrigerante coca cola",
       "informacaoNutricional": {
-        "Calorias": "0 kcal",
-        "Proteina": "0g",
-        "Carboidratos": "0g",
-        "Gorduras": "0g",
-        "Fibra": "0g",
-        "Sódio": "80mg"
+        "ValorEnergético": "140 kcal",
+        "Carboidratos": "35g",
+        "AçúcaresTotais": "35g",
+        "AçúcaresAdicionados": "34g",
+        "Sódio": "42mg"
       }
     },
     {
